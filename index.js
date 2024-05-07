@@ -7,9 +7,9 @@ function  returnsANamedFunction() {
     console.log (`This is a Gibson Les Paul.`);
   }
 }
+
 function returnsAnAnonymousFunction() {
   return function () {
     console.log (`This is an SG.`);
   }
 }
-
